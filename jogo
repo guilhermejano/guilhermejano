@@ -1,0 +1,41 @@
+let xp = 9000
+while(xp < 1000){
+		console.log("O herói batman está no nível de")
+    xp++
+      console.log("Ferro")
+      }
+while(xp >=1001 && xp <=2000){
+     	console.log("O herói batman está no nível de")   
+        xp++
+        console.log("Bronze")
+        }
+while(xp >=2001 && xp<= 5000){
+     	 console.log("O herói batman está no nível de")
+         xp++ 
+          console.log("Prata ")
+          }
+while(xp >=5001 && xp <= 7000){
+   	 console.log("O herói batman está no nível de")
+     xp++
+     console.log("Ouro")
+    }
+ while(xp >=7.001 && xp <= 8000){
+     console.log("O herói batman está no nível de")
+     xp++
+     console.log("Platina")
+     }
+while(xp >=8001 && xp <= 9000){
+     console.log("O herói batman está no nível de")
+     xp++
+     console.log("Ascendente")
+     }
+ while(xp >=9001 && xp <= 10000){
+     console.log("O herói batman está no nível de")
+     xp++
+     console.log("Imortal")
+     }
+    while(xp >=10001){
+     console.log("O herói batman está no nível de")
+     xp++
+     console.log("Radiante")
+     }
