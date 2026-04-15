@@ -10,3 +10,5 @@ Below it will some ideias about me.
 📫 How to reach me: guilhermejanoariogli@gmail.com
 😄 Pronouns: he/him
 ⚡ Fun fact: I made laugh with old memes
+
+Comitando pela primeira vez
