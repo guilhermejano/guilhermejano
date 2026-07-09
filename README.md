@@ -24,7 +24,6 @@ I'm avaliable to talk about games and anothes topics, it feels to good send a me
 
 - ⚡ Fun fact **I love old memes**
 
-https://trophygithubreadmelang.cybee.dpdns.org/?guilhermejano
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,3 +40,7 @@ https://trophygithubreadmelang.cybee.dpdns.org/?guilhermejano
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermejano&show_icons=true&locale=en" alt="guilhermejano" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermejano&" alt="guilhermejano" /></p>
+
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark-guilhermejano
+
