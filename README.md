@@ -43,3 +43,7 @@ I'm avaliable to talk about games and anothes topics, it feels to good send a me
 
 (https://github-profile-trophy-unserori.vercel.app/?username=guilhermejano&theme=light)
 
+Projects
+https://canva.link/ehsdqyhj327u1b9
+<img width="1366" height="768" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/d74ba623-6165-47d7-974e-ea1b7ce31166" />
+
