@@ -46,4 +46,6 @@ I'm avaliable to talk about games and anothes topics, it feels to good send a me
 Projects
 https://canva.link/ehsdqyhj327u1b9
 <img width="1366" height="768" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/d74ba623-6165-47d7-974e-ea1b7ce31166" />
+<img width="1321" height="759" alt="image" src="https://github.com/user-attachments/assets/a58998d0-9210-4a82-97d1-30930df5574c" />
+
 
