@@ -4,8 +4,7 @@ I'm avaliable to talk about games and anothes topics, it feels to good send a me
 <h1 align="center">Hi👋, I'm Guilherme Janoario Soares</h1>
 <h3 align="center">A passionate about script games</h3>
 
-<h1 align="center">Hi 👋, I'm Guilherme Janoario Soares</h1>
-<h3 align="center">A passionate about script games</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermejano&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermejano" /> </p>
 
