@@ -43,7 +43,6 @@ I'm avaliable to talk about games and anothes topics, it feels to good send a me
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermejano&" alt="guilhermejano" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermejano&" alt="guilhermejano" /></p>
 
 (https://github-profile-trophy-unserori.vercel.app/?username=guilhermejano&theme=yellow)
 
