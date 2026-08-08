@@ -5,9 +5,6 @@ I'm avaliable to talk about games and anothes topics, it feels to good send a me
 <h3 align="center">A passionate about script games</h3>
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermejano&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermejano" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guilhermejano" alt="guilhermejano" /></a> </p>
 
 - 🔭 I’m currently working on **No projects yet**
@@ -28,7 +25,6 @@ I'm avaliable to talk about games and anothes topics, it feels to good send a me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/guilherme janoario soares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme janoario soares" height="30" width="40" /></a>
 <a href="https://instagram.com/guilhermejanoario.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guilhermejanoario.js" height="30" width="40" /></a>
 <a href="https://discord.gg/bagheera1307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bagheera1307" height="30" width="40" /></a>
 </p>
