@@ -37,7 +37,7 @@ I'm avaliable to talk about games and anothes topics, it feels to good send a me
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermejano&show_icons=true&locale=en&layout=compact" alt="guilhermejano" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermejano&show_icons=true&locale=en" alt="guilhermejano" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermejano&show_icons=true&locale=en" 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermejano&" alt="guilhermejano" /></p>
 
