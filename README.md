@@ -44,7 +44,6 @@ https://canva.link/ehsdqyhj327u1b9
 <img width="1366" height="768" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/d74ba623-6165-47d7-974e-ea1b7ce31166" />
 <img width="1321" height="759" alt="image" src="https://github.com/user-attachments/assets/a58998d0-9210-4a82-97d1-30930df5574c" />
 
-Esse curso é o curso que eu estou apostando "tudo" na área de games. De uma diversão de criança, a uma idea de trabalha com criação de jogos, e aqui estamos tentando entrar na área.
-Eu não sei o que vai acontecer no futuro, mas eu quero estar trabalhando nessa área de jogos que me encatou e cada vez mais expande.
-Toda áreas do jogos integram entre si. E isso torna o mais belo.
-Jogos é uma arte, acho que por isso que muitos se sentem atraídos por essa área. Mas para mim é sonho poder estar trablhando nessa área que me encantou pela liberdade de criar roteiros para jogos.
+I have loved games, but I never had working games. I saw the opportunity to join the games industry, and I instantly didn't miss this chance.
+It makes games is an amazing experience, building art, effects, sound, graphics, and heroes. It makes a emotions historys to people.
+So, it achieves these goals for me will be everything I ever wish it.
