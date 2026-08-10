@@ -19,7 +19,7 @@ I'm avaliable to talk about games and anothes topics, it feels to good send a me
 
 - 💬 Ask me about **Games, life, movies**
 
-- 📫 How to reach me **guilhermejanoariogli@gmail.com**
+- 📫 How to reach me [guilhermejanoariogli@gmail.com**](https://www.linkedin.com/in/guilherme-janoario-091292214/)
 
 - ⚡ Fun fact **I love old memes**
 
