@@ -47,4 +47,3 @@ https://canva.link/ehsdqyhj327u1b9
 - I have always loved games, but I never had thought of working in games. I saw the opportunity to join the games industry, and I instantly didn't miss this chance.
 It makes games is an amazing experience, building art, effects, sound, graphics, and heroes. It makes a emotions historys to people.
 So, it achieves these goals for me will be everything I ever wish it.
--->
