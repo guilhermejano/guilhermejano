@@ -1,6 +1,6 @@
-Hi there!
-My name's Guilherme I'am styding games and I'm excited to work with games. In soon I'll get sarted to  study Unity, Unreal and other languages programming. 
-I'm avaliable to talk about games and anothes topics, it feels to good send a messagem to me.
+## Hi everyone 👋
+- My name's Guilherme I'am styding games and I'm excited to work with games. In soon I'll get sarted to  study Unity, Unreal and other languages programming. 
+- I'm avaliable to talk about games and anothes topics, it feels to good send a messagem to me.
 <h1 align="center">Hi👋, I'm Guilherme Janoario Soares</h1>
 <h3 align="center">A passionate about script games</h3>
 
@@ -39,11 +39,12 @@ I'm avaliable to talk about games and anothes topics, it feels to good send a me
 
 (https://github-profile-trophy-unserori.vercel.app/?username=guilhermejano&theme=yellow)
 
-Projects
+- Projects
 https://canva.link/ehsdqyhj327u1b9
 <img width="1366" height="768" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/d74ba623-6165-47d7-974e-ea1b7ce31166" />
 <img width="1321" height="759" alt="image" src="https://github.com/user-attachments/assets/a58998d0-9210-4a82-97d1-30930df5574c" />
 
-I have always loved games, but I never had thought of working in games. I saw the opportunity to join the games industry, and I instantly didn't miss this chance.
+- I have always loved games, but I never had thought of working in games. I saw the opportunity to join the games industry, and I instantly didn't miss this chance.
 It makes games is an amazing experience, building art, effects, sound, graphics, and heroes. It makes a emotions historys to people.
 So, it achieves these goals for me will be everything I ever wish it.
+-->
